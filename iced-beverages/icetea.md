@@ -1,1 +1,1 @@
-new items are to be added here
+new items are to be deleted here
